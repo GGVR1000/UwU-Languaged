@@ -4,8 +4,12 @@
 
 # UWU Languaged
 
-![Version](https://img.shields.io/badge/VERSION-1.0.0-blue)
-![Status](https://img.shields.io/badge/DOWNLOAD-LATEST!-green)
+<a href="https://github.com/GGVR1000/UwU-Languaged/releases/tag/1.0.0">
+  <img src="https://img.shields.io/badge/VERSION-1.0.0-blue" alt="Version">
+</a>
+<a href="https://github.com/GGVR1000/UwU-Languaged/releases/tag/1.0.0">
+  <img src="https://img.shields.io/badge/DOWNLOAD-LATEST!-green" alt="Download">
+</a>
 <a href="https://discord.gg/5uPpvKpUfj">
   <img src="https://img.shields.io/badge/JOIN-DISCORD-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
 </a>
