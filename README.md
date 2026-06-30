@@ -6,6 +6,9 @@
 
 ![Version](https://img.shields.io/badge/VERSION-1.0.0-blue)
 ![Status](https://img.shields.io/badge/DOWNLOAD-LATEST!-green)
+<a href="https://discord.gg/5uPpvKpUfj">
+  <img src="https://img.shields.io/badge/JOIN-DISCORD-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 </div>
 
@@ -55,6 +58,6 @@ Absolutely! Feel free to fork the repo, learn from it, or use snippets for your 
 ---
 
 <div align="center">
-  
-*Built with love and a lot of caffeine.*
+  <br>
+  *Built with love and a lot of caffeine.*
 </div>
